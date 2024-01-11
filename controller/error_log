@@ -1,0 +1,5 @@
+[02-Jan-2024 19:06:43 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /mnt/home-a/quillota/public_html/inventario/class/Producto.php:366
+Stack trace:
+#0 /mnt/home-a/quillota/public_html/inventario/controller/controllerProd.php(49): Productos->ModificarMasStock()
+#1 {main}
+  thrown in /mnt/home-a/quillota/public_html/inventario/class/Producto.php on line 366

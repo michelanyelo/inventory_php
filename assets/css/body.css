@@ -1,0 +1,105 @@
+.body-inv{
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://pbs.twimg.com/media/DxwfALSXQAEJmjM.png);
+	background-size: cover;
+	background-position: center;
+}
+
+.main-section{
+	margin: 0 auto;
+	margin-top: 5%;
+	padding: 0;
+}
+
+.nav-titulo{
+	margin-top:5px;
+	border-radius: .3rem;
+	background-color: slategrey !important;
+}
+
+.user-img{
+	margin-top: -50px;
+	margin-bottom: 35px;
+}
+
+.user-img img{
+	width: 100px;
+	height: 100px;
+}
+
+.recuadro-login{
+	background-color: #F7F7F7 !important;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 200px;
+}
+
+.btn-login{
+	color:  #fff !important;
+	background-color: #5cb85c !important;
+	border-color: #4cae4c !important;
+	margin-bottom: 40px;
+}
+
+.avatar {
+	vertical-align: middle;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+
+.btn-circleagrega {
+	width: 30px !important;
+	height: 30px !important;
+	padding: 6px 0px !important;
+	border-radius: 15px !important;
+	text-align: center !important;
+	font-size: 12px !important;
+	line-height: 1.42857 !important;
+	background-color: #32BDBE !important;
+	border-color: #32BDBE !important;
+	box-shadow: 0 2px 6px 0 #52a77e80 !important;
+	margin-right: 5px;
+}
+
+.btn-circleagrega:hover{
+	background-color: #2c9c9d !important;
+	border-color: #2c9c9d !important;
+	box-shadow: 0 2px 6px 0 #42816380 !important;
+}
+
+.btn-circlequita {
+	width: 30px !important;
+	height: 30px !important;
+	padding: 6px 0px !important;
+	border-radius: 15px !important;
+	text-align: center !important;
+	font-size: 12px !important;
+	line-height: 1.42857 !important;
+	background-color: #e55975 !important;
+	border-color: #e55975 !important;
+	box-shadow: 0 2px 6px 0 #e5597580 !important;
+	margin-left: 5px;
+}
+
+.btn-circlequita:hover{
+	background-color: #d54e69 !important;
+	border-color: #d54e69 !important;
+	box-shadow: 0 2px 6px 0 #d54e6980 !important;
+}
+
+button[type=submit]{
+	background-color: #2f5a85 !important;
+	border-color: #2f5a85 !important;
+}
+
+div.dataTables_wrapper div.dataTables_filter {
+	background-color: #3D4856;
+	border-radius: 5px;
+	color: white;
+	padding-top: 8px;
+	padding-right: 12px;
+}
+
+div.dataTables_wrapper div.dataTables_filter input{
+	width: 500px !important;
+}
